@@ -6,10 +6,4 @@
 #define PIN_FUNC3 2
 #define PIN_FUNC4 3
 
-#define GPIO_0_0 PIN_FUNC1
-#define TXD0_0_0 PIN_FUNC2
-#define PWM1_0_0 PIN_FUNC3
-#define RSVD_0_0 PIN_FUNC4
-
-
 #endif
